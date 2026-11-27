@@ -20,4 +20,4 @@ et de ses habitudes de vie (tabac, alcool, alimentation, activité physique).
 3. Ouvrir le notebook et exécuter toutes les cellules.
 
 ## Auteur
-Nana Pacôme Bienvenu – UVCI, 2026
+Nana Pacôme Bienvenu
